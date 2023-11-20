@@ -44,7 +44,7 @@ We welcome contributions to improve and expand the functionality of the Skyblock
 
 ## Support
 
-For assistance, bug reports, or general discussions, feel free to open an [issue](https://github.com/your-username/skyblock-macros/issues). We encourage community collaboration and feedback.
+For assistance, bug reports, or general discussions, feel free to open an [issue](https://github.com/JagdishPlayz1020/skyblock-macros/issues). We encourage community collaboration and feedback.
 
 ## License
 
